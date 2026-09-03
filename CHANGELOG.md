@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.8.5 - 2026-09-03
+
+- ci: add a full release workflow with a version input
+
 ## 0.8.0 - 2026-09-02
 
 - A PDF in a brain is read where it sits: on the file screen, in the grid's preview, and beside a chat
