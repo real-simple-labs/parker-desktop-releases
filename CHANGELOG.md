@@ -2,6 +2,14 @@
 
 What changed in each version, newest first.
 
+## 0.8.0 - 2026-09-02
+
+- A PDF in a brain is read where it sits: on the file screen, in the grid's preview, and beside a chat
+- A public changelog on the releases mirror, written on every release
+- Change blocks name who made the changes; Latest edits says when the summary comes
+- Claude's questions get a card of their own, with the answers sent back the way the CLI reads them
+- Five faults in today's work, found on a read-through
+
 ## 0.7.2 - 2026-09-02
 
 - A folder note's full line shows in the app's own tooltip, not a browser title
