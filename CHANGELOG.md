@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.8.6 - 2026-09-07
+
+- fix: find git on a Mac beyond Apple's stub, and run the one found
+- fix: put the agent CLI's own folder on PATH when starting it
+
 ## 0.8.5 - 2026-09-03
 
 - ci: add a full release workflow with a version input
