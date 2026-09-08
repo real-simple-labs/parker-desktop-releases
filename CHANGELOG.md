@@ -2,6 +2,13 @@
 
 What changed in each version, newest first.
 
+## 0.9.3 - 2026-09-08
+
+- chore: label
+- feat: combine org folder and brain changes in the org tab's feed
+- fix: read the brain's own commits in Overview; ask for synced brains only
+- feat: add Report a problem dialog that sends the log to the Parker team
+
 ## 0.9.2 - 2026-09-08
 
 - fix: expand debug console request and navigation logs
