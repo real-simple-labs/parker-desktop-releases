@@ -2,6 +2,16 @@
 
 What changed in each version, newest first.
 
+## 0.9.1 - 2026-09-08
+
+- fix: protect brain folders during parent moves and deletions
+- fix: preserve editor drafts and keep organization saves local
+- fix: ignore stale close events in file-name dialogs
+- fix: count files in sync commit subjects instead of naming them
+- feat: add restricted-folder access UI behind ENABLE_FOLDER_ACCESS (locks, banner, who-can-see dialog)
+- fix: preserve org files and brand links during shared-space sync
+- feat: add share, upload and file history to the org tab once its folder syncs
+
 ## 0.9.0 - 2026-09-08
 
 - feat: sync each organization's shared space into its org folder
