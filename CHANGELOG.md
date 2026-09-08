@@ -2,6 +2,14 @@
 
 What changed in each version, newest first.
 
+## 0.9.4 - 2026-09-08
+
+- fix: repair Windows builds and runtime compatibility
+- fix: write folder descriptions in the background
+- feat: add a clock that asks for summaries once an hour closes
+- feat: animate file and folder sync completion
+- feat: add Parker wink and curtain lift to startup
+
 ## 0.9.3 - 2026-09-08
 
 - chore: label
