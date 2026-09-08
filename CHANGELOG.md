@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.9.2 - 2026-09-08
+
+- fix: expand debug console request and navigation logs
+- fix: send summary commits per brain in rounds; log each summary ask
+
 ## 0.9.1 - 2026-09-08
 
 - fix: protect brain folders during parent moves and deletions
