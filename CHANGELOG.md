@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.9.0 - 2026-09-08
+
+- feat: sync each organization's shared space into its org folder
+- fix: scope the git credential header to the remote's origin
+
 ## 0.8.6 - 2026-09-07
 
 - fix: find git on a Mac beyond Apple's stub, and run the one found
