@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.9.8 - 2026-09-09
+
+- perf: Less slowdown when syncing many brands
+- docs: Write release notes in plain language
+
 ## 0.9.7 - 2026-09-09
 
 - fix: animate file sync indicators and show syncing progress
