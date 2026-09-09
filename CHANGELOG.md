@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.10.0 - 2026-09-09
+
+- fix: retire old clone on brand repo change; clone pass on window focus
+
 ## 0.9.8 - 2026-09-09
 
 - perf: Less slowdown when syncing many brands
