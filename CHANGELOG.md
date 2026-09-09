@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.9.6 - 2026-09-09
+
+- fix: validate saved history during folder setup
+
 ## 0.9.5 - 2026-09-09
 
 - feat: say when the CLI is missing as soon as a chat opens
