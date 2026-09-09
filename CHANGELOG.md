@@ -2,6 +2,14 @@
 
 What changed in each version, newest first.
 
+## 0.9.5 - 2026-09-09
+
+- feat: say when the CLI is missing as soon as a chat opens
+- feat: colour JSON files over 256K characters a slice at a time
+- fix: retry a failed brain check; name the Selective sync pane in notes
+- fix: shrink the empty-chats note in the sidebar
+- fix: isolate Windows sync and preserve pending changes
+
 ## 0.9.4 - 2026-09-08
 
 - fix: repair Windows builds and runtime compatibility
