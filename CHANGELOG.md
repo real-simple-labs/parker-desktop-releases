@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.9.7 - 2026-09-09
+
+- fix: animate file sync indicators and show syncing progress
+- fix: hide upload and set-up buttons for a read-only brain
+- fix: honor organization selection and avoid redundant syncs
+
 ## 0.9.6 - 2026-09-09
 
 - fix: validate saved history during folder setup
