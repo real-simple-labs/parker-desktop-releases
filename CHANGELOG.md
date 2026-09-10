@@ -2,6 +2,14 @@
 
 What changed in each version, newest first.
 
+## 0.10.2 - 2026-09-10
+
+- fix: Show why files cannot sync (when subscription expired)
+- fix: Summaries arrive sooner in Recent changes, plus a refresh button
+- feat: Show the Parker version in the window title
+- fix: Select all and Unselect all stay on one line in Selective sync
+- fix: Settings no longer shows Parker as installed when it is missing
+
 ## 0.10.1 - 2026-09-10
 
 - fix: Keep your place in an organization's files when they refresh
