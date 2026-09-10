@@ -2,6 +2,13 @@
 
 What changed in each version, newest first.
 
+## 0.10.3 - 2026-09-10
+
+- fix: Steadier background sync and safer closing with many brands
+- fix: Keep background updates fair and on schedule
+- fix: Recent changes no longer show automatic brand link updates
+- perf: Less slowdown when syncing many brands
+
 ## 0.10.2 - 2026-09-10
 
 - fix: Show why files cannot sync (when subscription expired)
