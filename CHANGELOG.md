@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.10.4 - 2026-09-10
+
+- fix: All of a file's buttons now sit in one row above it
+- fix: Sidebar shows the whole sync message; read-only brands no longer say "Syncs"
+
 ## 0.10.3 - 2026-09-10
 
 - fix: Steadier background sync and safer closing with many brands
