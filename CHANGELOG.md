@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.11.2 - 2026-09-11
+
+- feat: Add organization Home page; sidebar clicks return to the top
+
 ## 0.11.1 - 2026-09-11
 
 - test: Find a file's History button in the bar above the file
