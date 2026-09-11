@@ -2,6 +2,14 @@
 
 What changed in each version, newest first.
 
+## 0.11.1 - 2026-09-11
+
+- test: Find a file's History button in the bar above the file
+- fix: Short READMEs show in full instead of folded
+- feat: Open files and folders in the ChatGPT app
+- fix: Brains keep syncing when Parker moves where they are stored
+- feat: Search box in the debug console
+
 ## 0.11.0 - 2026-09-11
 
 - feat: Enable folder permissions
