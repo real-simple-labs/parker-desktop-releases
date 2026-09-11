@@ -2,6 +2,16 @@
 
 What changed in each version, newest first.
 
+## 0.12.0 - 2026-09-11
+
+- feat: Windows installer is digitally signed by Real Simple Labs
+- feat: Press Enter to jump between debug console search results
+- fix: Renew a brain's access when it moves to a new address
+- fix: A brain that cannot be reached no longer retries every 20 seconds
+- feat: Connect Parker to Codex with only the ChatGPT app installed
+- fix: Show folder change problems in red in Settings
+- fix: Tidier brand list under each organization in the sidebar
+
 ## 0.11.2 - 2026-09-11
 
 - feat: Add organization Home page; sidebar clicks return to the top
