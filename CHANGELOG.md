@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.11.0 - 2026-09-11
+
+- feat: Enable folder permissions
+- feat: Org page shows shared folders first; long brand lists fold
+- feat: Long file metadata folds to five lines; a button shows the rest
+
 ## 0.10.4 - 2026-09-10
 
 - fix: All of a file's buttons now sit in one row above it
