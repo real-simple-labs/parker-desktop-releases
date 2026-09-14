@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.12.3 - 2026-09-14
+
+- fix: A brain keeps syncing after a folder is hidden from you
+
 ## 0.12.2 - 2026-09-14
 
 - fix: Group changes with no summary and show their summary status
