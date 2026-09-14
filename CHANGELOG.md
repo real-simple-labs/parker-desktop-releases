@@ -2,6 +2,16 @@
 
 What changed in each version, newest first.
 
+## 0.12.1 - 2026-09-14
+
+- fix: Match the brain setup prompt to the web app's wording
+- feat: Remove the optional GitHub step from brain setup
+- feat: Show the welcome tour after sign-in, while your files download
+- fix: Open Claude or Codex in the brain's folder during brain setup
+- fix: Center the empty folder message and its button
+- fix: Show "Codex" instead of "ChatGPT" on agent buttons and menus
+- feat: Save folder permissions for your whole team
+
 ## 0.12.0 - 2026-09-11
 
 - feat: Windows installer is digitally signed by Real Simple Labs
