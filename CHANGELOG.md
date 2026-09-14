@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.12.2 - 2026-09-14
+
+- fix: Group changes with no summary and show their summary status
+
 ## 0.12.1 - 2026-09-14
 
 - fix: Match the brain setup prompt to the web app's wording
