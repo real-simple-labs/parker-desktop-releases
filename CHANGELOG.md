@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.12.5 - 2026-09-14
+
+- feat: Summarize changes up to 30 days old, not only the last 3 days
+- docs: Explain why the app crashes when a coding assistant opens it
+
 ## 0.12.4 - 2026-09-14
 
 - feat: Show your personal files and folders in the sidebar
