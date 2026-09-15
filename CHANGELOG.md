@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.15.2 - 2026-09-15
+
+- feat: New brains arrive with Parker's method library attached
+- feat: Replay the welcome tour from the top of the sidebar
+
 ## 0.15.1 - 2026-09-15
 
 - test: Fix Windows release checks for syncing and file names
