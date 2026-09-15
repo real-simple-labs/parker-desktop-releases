@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.15.1 - 2026-09-15
+
+- test: Fix Windows release checks for syncing and file names
+- fix: Rename brain setup install buttons to "Install MCP into…"
+
 ## 0.15.0 - 2026-09-15
 
 - fix: Keep account and folder access details current
