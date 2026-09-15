@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.15.6 - 2026-09-15
+
+- Fix a clash with Claude or Codex without any technical steps
+
 ## 0.15.5 - 2026-09-15
 
 - Parker diagnostics
