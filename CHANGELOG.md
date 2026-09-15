@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.15.4 - 2026-09-15
+
+- Clearer notice when someone else edits the same file, shown once
+- Release notes no longer start with labels like "feat:" or "fix:"
+
 ## 0.15.3 - 2026-09-15
 
 - fix: Keep the Windows download link working right after a release
