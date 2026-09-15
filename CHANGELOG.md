@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.12.4 - 2026-09-14
+
+- feat: Show your personal files and folders in the sidebar
+- test: Keep Windows release checks consistent
+- chore: Remove unused styles from the old sidebar file lists
+
 ## 0.12.3 - 2026-09-14
 
 - fix: A brain keeps syncing after a folder is hidden from you
