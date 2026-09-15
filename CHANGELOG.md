@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.15.8 - 2026-09-15
+
+- Fix Windows release checks for file conflicts
+- Sync large changes in parts so they no longer fail
+
 ## 0.15.7 - 2026-09-15
 
 - The app tells Parker which brands you sync on each computer
