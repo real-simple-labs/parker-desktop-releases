@@ -2,6 +2,14 @@
 
 What changed in each version, newest first.
 
+## 0.15.3 - 2026-09-15
+
+- fix: Keep the Windows download link working right after a release
+- feat: See what's new in Parker from the About window
+- fix: Wait for brand files before showing setup as complete
+- fix: Brain setup no longer asks the assistant to set up storage again
+- test: Fix Windows release checks for new brains
+
 ## 0.15.2 - 2026-09-15
 
 - feat: New brains arrive with Parker's method library attached
