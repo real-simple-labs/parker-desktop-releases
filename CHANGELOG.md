@@ -2,6 +2,17 @@
 
 What changed in each version, newest first.
 
+## 0.12.6 - 2026-09-15
+
+- fix: Prevent repeated sync failures and unwanted chat starts
+- fix: Sync keeps working when you use Parker on more than one computer
+- fix: Preserve local files during sync and version restoration
+- fix: Prevent lost work when editing and organizing files
+- feat: Remove the title bar on Mac for more room on screen
+- fix: Brain, folder and file names no longer covered by toolbar buttons
+- fix: Setup no longer says the brain is ready while it is still empty
+- feat: Chats section starts collapsed when you first open the app
+
 ## 0.12.5 - 2026-09-14
 
 - feat: Summarize changes up to 30 days old, not only the last 3 days
