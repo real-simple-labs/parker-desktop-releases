@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.15.5 - 2026-09-15
+
+- Parker diagnostics
+- Show how much storage a brain uses in About this brain
+
 ## 0.15.4 - 2026-09-15
 
 - Clearer notice when someone else edits the same file, shown once
