@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.15.9 - 2026-09-15
+
+- Make Windows release checks more reliable
+- Syncing gives way to calls and other apps on Mac
+- Report a new list of synced brands within the minute
+
 ## 0.15.8 - 2026-09-15
 
 - Fix Windows release checks for file conflicts
