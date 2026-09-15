@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.15.0 - 2026-09-15
+
+- fix: Keep account and folder access details current
+- feat: Show the app name and version at the top of the sidebar
+- fix: Protect files during sync and stop links from starting Codex
+
 ## 0.12.6 - 2026-09-15
 
 - fix: Prevent repeated sync failures and unwanted chat starts
