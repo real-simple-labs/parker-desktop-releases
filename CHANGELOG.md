@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.16.0 - 2026-09-15
+
+- Find Claude Code however it was installed; open its guide
+- Check Windows changes before release
+- Summaries for your organization's shared folder
+
 ## 0.15.10 - 2026-09-15
 
 - A brain whose sign-in went stale is picked up in seconds again
