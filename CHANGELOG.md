@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.16.2 - 2026-09-16
+
+- Make Windows release checks reliable during syncing
+
 ## 0.16.1 - 2026-09-16
 
 - Refuse and explain file names that Windows can't use
