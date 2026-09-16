@@ -2,6 +2,13 @@
 
 What changed in each version, newest first.
 
+## 0.15.10 - 2026-09-15
+
+- A brain whose sign-in went stale is picked up in seconds again
+- An update that is ready is not downloaded again and again
+- A failed sync no longer repeats its upload every minute
+- Syncing gives way to other apps on Windows too
+
 ## 0.15.9 - 2026-09-15
 
 - Make Windows release checks more reliable
