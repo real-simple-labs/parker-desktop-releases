@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.16.1 - 2026-09-16
+
+- Refuse and explain file names that Windows can't use
+
 ## 0.16.0 - 2026-09-15
 
 - Find Claude Code however it was installed; open its guide
