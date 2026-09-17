@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.17.4 - 2026-09-17
+
+- Small fixes and improvements.
+
 ## 0.16.2 - 2026-09-16
 
 - Make Windows release checks reliable during syncing
