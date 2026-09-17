@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.17.5 - 2026-09-17
+
+- Changes your team makes in a shared space show in Recent changes again
+
 ## 0.17.4 - 2026-09-17
 
 - Small fixes and improvements.
