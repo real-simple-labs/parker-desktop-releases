@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.17.7 - 2026-09-17
+
+- Recent changes shows every change of the last 30 days, and each of them gets a summary
+
 ## 0.17.6 - 2026-09-17
 
 - A file's history shows pictures and videos before and after each change, side by side
