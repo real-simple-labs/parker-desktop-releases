@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.17.6 - 2026-09-17
+
+- A file's history shows pictures and videos before and after each change, side by side
+- Right-click a folder name at the top of the files to copy its path on your computer
+
 ## 0.17.5 - 2026-09-17
 
 - Changes your team makes in a shared space show in Recent changes again
