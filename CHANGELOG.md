@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.17.8 - 2026-09-21
+
+- Search in an organization's folder also finds files, folders and text inside its brands
+- A file's history lists only the changes made to that file
+
 ## 0.17.7 - 2026-09-17
 
 - Recent changes shows every change of the last 30 days, and each of them gets a summary
