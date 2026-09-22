@@ -2,6 +2,13 @@
 
 What changed in each version, newest first.
 
+## 0.18.0 - 2026-09-22
+
+- Work on this opens Claude in the brain's folder every time, not only on the first click
+- The list of what changed stays hidden the first time you open Parker
+- The front tab curves into the page at the bottom corners
+- Tabs sit flush with the page, with no line underneath
+
 ## 0.17.8 - 2026-09-21
 
 - Search in an organization's folder also finds files, folders and text inside its brands
