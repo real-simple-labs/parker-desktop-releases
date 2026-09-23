@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.20.0 - 2026-09-23
+
+- Recent changes shows beside the folder in the Hub, Files and Icons views too, and folds away in all of them
+- Folders have a history button too, listing only the changes to the files inside that folder
+
 ## 0.19.1 - 2026-09-23
 
 - Parker keeps finding newer versions while an update waits, and checks soon after your computer wakes
