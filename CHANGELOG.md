@@ -2,6 +2,13 @@
 
 What changed in each version, newest first.
 
+## 0.19.0 - 2026-09-23
+
+- The plus button above your files now adds a whole folder, with everything in it, as well as a single file
+- While the team loads, the who-can-see dialog shows placeholder rows instead of an error
+- Share a folder by link, like a file, so people can browse everything inside it on the web
+- Right-click an open file's name at the top of the files to copy its path on your computer
+
 ## 0.18.0 - 2026-09-22
 
 - Work on this opens Claude in the brain's folder every time, not only on the first click
