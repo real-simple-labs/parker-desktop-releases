@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.19.1 - 2026-09-23
+
+- Parker keeps finding newer versions while an update waits, and checks soon after your computer wakes
+
 ## 0.19.0 - 2026-09-23
 
 - The plus button above your files now adds a whole folder, with everything in it, as well as a single file
