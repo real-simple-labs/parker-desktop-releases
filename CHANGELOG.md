@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.20.1 - 2026-09-24
+
+- After an update, what's new shows in a small corner card that you can read later or close
+- Home keeps showing a brain's changes when they cannot be read for a moment
+- In the history of a folder or brain, click a file's name to open that file
+
 ## 0.20.0 - 2026-09-23
 
 - Recent changes shows beside the folder in the Hub, Files and Icons views too, and folds away in all of them
