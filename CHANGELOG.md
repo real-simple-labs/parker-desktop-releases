@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.21.1 - 2026-09-24
+
+- The Recent changes column beside your files slides open and closed instead of jumping
+
 ## 0.21.0 - 2026-09-24
 
 - Sidebar sections and org groups slide open and closed, and menus and dialogs ease in
