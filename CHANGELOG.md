@@ -2,6 +2,17 @@
 
 What changed in each version, newest first.
 
+## 0.21.0 - 2026-09-24
+
+- Sidebar sections and org groups slide open and closed, and menus and dialogs ease in
+- Folders in large brains show all their files, and a note says when a brain has too many to list
+- Recent changes shows a small spinner while newer changes are still loading
+- The four view buttons above a folder are now one layout button, with the default layout first
+- A Mac that is installing Apple's developer tools says so, and your brains download when the install is done
+- The version number shows in full at the top of the sidebar again
+- Work on this opens Claude in the brain's folder even after you chose a folder in Claude itself
+- Clicking an organization's name in the sidebar opens its top-level view, like a brand does
+
 ## 0.20.2 - 2026-09-24
 
 - Small fixes and improvements.
