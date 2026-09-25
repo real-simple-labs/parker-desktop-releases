@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.21.3 - 2026-09-25
+
+- Recent changes stays beside each folder and shows only the changes made in it
+
 ## 0.21.2 - 2026-09-25
 
 - Recent changes shows the newest changes first, with a button at the foot to show the rest
