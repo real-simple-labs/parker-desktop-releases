@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.21.2 - 2026-09-25
+
+- Recent changes shows the newest changes first, with a button at the foot to show the rest
+- Recent changes slides fully out of view, and its button now sits in line with the toolbar
+
 ## 0.21.1 - 2026-09-24
 
 - The Recent changes column beside your files slides open and closed instead of jumping
