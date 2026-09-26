@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.21.4 - 2026-09-25
+
+- The Parker face in the menu bar matches the other menu bar icons, on light and dark wallpapers (Mac)
+- Restart checks for a newer version first, so you do not have to update again right after
+- Settings has an Early Access tab where you can switch to the new design and back
+
 ## 0.21.3 - 2026-09-25
 
 - Recent changes stays beside each folder and shows only the changes made in it
