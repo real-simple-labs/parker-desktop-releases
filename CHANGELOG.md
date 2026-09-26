@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.22.0 - 2026-09-25
+
+- Small fixes and improvements.
+
 ## 0.21.4 - 2026-09-25
 
 - The Parker face in the menu bar matches the other menu bar icons, on light and dark wallpapers (Mac)
