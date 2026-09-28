@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.24.1 - 2026-09-28
+
+- The new design shows its own fonts, as on the web
+- The new design's sidebar has Org files, shows the version number, and no longer leaves outlines on clicked buttons
+
 ## 0.24.0 - 2026-09-28
 
 - The new design has the web app's menu, opening Explore, Library and more inside the app, and a Conversations screen
