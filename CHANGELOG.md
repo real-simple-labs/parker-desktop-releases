@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.24.2 - 2026-09-28
+
+- Zoom in and out with Cmd or Ctrl and plus or minus works again, and zooms the whole window
+- The new design's menu adds Sign out, brand logos and counts, a sliding highlight, and quicker brand picking
+
 ## 0.24.1 - 2026-09-28
 
 - The new design shows its own fonts, as on the web
