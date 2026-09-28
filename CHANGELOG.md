@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.24.0 - 2026-09-28
+
+- The new design has the web app's menu, opening Explore, Library and more inside the app, and a Conversations screen
+
 ## 0.23.0 - 2026-09-28
 
 - Small fixes and improvements.
