@@ -2,6 +2,13 @@
 
 What changed in each version, newest first.
 
+## 0.25.0 - 2026-09-29
+
+- Parker's web pages show a loading spinner while they open, instead of a blank white page
+- In the new design, the sidebar folds into a slim strip of icons instead of disappearing
+- Settings has a button that opens your Parker account settings: profile, team, connected accounts and billing
+- Back returns to Latest activity after opening a brain there, and the time in Last modified opens the history
+
 ## 0.24.2 - 2026-09-28
 
 - Zoom in and out with Cmd or Ctrl and plus or minus works again, and zooms the whole window
