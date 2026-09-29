@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.26.0 - 2026-09-29
+
+- An organization's history shows only your team's changes, not Parker's routine link updates
+- Web pages in the app have back, forward and reload buttons, their address, and a button to open them in your browser
+- Links on Parker's web pages that open a new window now open in a new tab, or in your browser for other sites
+
 ## 0.25.0 - 2026-09-29
 
 - Parker's web pages show a loading spinner while they open, instead of a blank white page
