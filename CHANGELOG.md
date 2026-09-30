@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.27.0 - 2026-09-30
+
+- Changes you had not synced in a folder that is no longer shared with you are kept on your computer
+
 ## 0.26.1 - 2026-09-30
 
 - Small fixes and improvements.
