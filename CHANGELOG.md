@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.26.1 - 2026-09-30
+
+- Small fixes and improvements.
+
 ## 0.26.0 - 2026-09-29
 
 - An organization's history shows only your team's changes, not Parker's routine link updates
