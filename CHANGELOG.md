@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.27.3 - 2026-10-01
+
+- Every brand's brain shows its brand context in a brand-context folder, read-only
+
 ## 0.27.1 - 2026-09-30
 
 - Organization folders no longer show a brands folder full of empty folders
