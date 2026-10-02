@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 0.29.0 - 2026-10-02
+
+- Summaries show as bullet points, a folder lists only its own work, and points from private folders have a lock
+- Chats with Claude and Codex inside Parker are off until you turn them on in Settings > Early Access
+- A file's history shows a rename as a rename, with any other changes, instead of a removed file
+
 ## 0.28.1 - 2026-10-02
 
 - Small fixes and improvements.
