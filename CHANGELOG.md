@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.28.1 - 2026-10-02
+
+- Small fixes and improvements.
+
 ## 0.28.0 - 2026-10-02
 
 - Your brand context in the brain is editable once Parker has put it there
