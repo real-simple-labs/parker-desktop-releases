@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.30.1 - 2026-10-05
+
+- Home shows a loading spinner while your latest changes load, instead of saying there are none
+
 ## 0.30.0 - 2026-10-03
 
 - Small fixes and improvements.
