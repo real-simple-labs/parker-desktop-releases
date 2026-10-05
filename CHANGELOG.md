@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.30.4 - 2026-10-05
+
+- A brain that isn't fully built yet shows a banner above its files, with a button to build it
+
 ## 0.30.1 - 2026-10-05
 
 - Home shows a loading spinner while your latest changes load, instead of saying there are none
