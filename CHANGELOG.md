@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 0.30.5 - 2026-10-05
+
+- The setup wizard no longer says the brain is ready while it holds only Parker's starting files
+- Report an issue from the Help & tour menu, or right beside a sync error or a screen that did not load
+
 ## 0.30.4 - 2026-10-05
 
 - A brain that isn't fully built yet shows a banner above its files, with a button to build it
