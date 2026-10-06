@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.5 - 2026-10-06
+
+- Small fixes and improvements.
+
 ## 1.0.4 - 2026-10-06
 
 - Search from the top of the sidebar to go to any page, switch brand, or search ads and ideas
