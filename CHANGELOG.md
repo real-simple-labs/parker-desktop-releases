@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 1.0.2 - 2026-10-06
+
+- The Help & tours menu has the documentation, a list of keyboard shortcuts and a way to book a call
+- Brands you turn on in Selective sync are no longer read-only by default
+
 ## 1.0.1 - 2026-10-06
 
 - Small fixes and improvements.
