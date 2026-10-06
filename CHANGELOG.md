@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 0.30.6 - 2026-10-05
+
+- Small fixes and improvements.
+
 ## 0.30.5 - 2026-10-05
 
 - The setup wizard no longer says the brain is ready while it holds only Parker's starting files
