@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.1 - 2026-10-06
+
+- Small fixes and improvements.
+
 ## 1.0.0 - 2026-10-06
 
 - Small fixes and improvements.
