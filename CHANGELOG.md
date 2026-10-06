@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 1.0.6 - 2026-10-06
+
+- Everything opens in the tab you are in, with Back to where you were; a new tab opens only when you ask
+- Start any page tour from Help & tours, and see which ones you have finished
+
 ## 1.0.5 - 2026-10-06
 
 - Small fixes and improvements.
