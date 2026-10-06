@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.3 - 2026-10-06
+
+- Pages from the sidebar open in one tab again, with their row highlighted, in the New Design
+
 ## 1.0.2 - 2026-10-06
 
 - The Help & tours menu has the documentation, a list of keyboard shortcuts and a way to book a call
