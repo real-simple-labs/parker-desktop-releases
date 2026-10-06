@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.4 - 2026-10-06
+
+- Search from the top of the sidebar to go to any page, switch brand, or search ads and ideas
+
 ## 1.0.3 - 2026-10-06
 
 - Pages from the sidebar open in one tab again, with their row highlighted, in the New Design
