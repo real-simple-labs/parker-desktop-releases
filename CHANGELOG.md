@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.11 - 2026-10-06
+
+- Small fixes and improvements.
+
 ## 1.0.10 - 2026-10-06
 
 - Parker asks before a delete of most of a brain reaches your team, and can put the files back
