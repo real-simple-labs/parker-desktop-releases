@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 1.0.13 - 2026-10-07
+
+- Explore, Library, Performance and Sources open faster from the sidebar
+- Right-click a change in History, a Settings tab or a sidebar page to copy a link that opens it
+
 ## 1.0.11 - 2026-10-06
 
 - Small fixes and improvements.
