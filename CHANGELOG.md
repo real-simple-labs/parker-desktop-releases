@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.14 - 2026-10-07
+
+- A brand that was deleted or is no longer shared with you stops syncing, and its files stay on your computer
+
 ## 1.0.13 - 2026-10-07
 
 - Explore, Library, Performance and Sources open faster from the sidebar
