@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.17 - 2026-10-09
+
+- Searching in the organization and brand switcher finds brands in all your organizations
+
 ## 1.0.16 - 2026-10-08
 
 - Small fixes and improvements.
