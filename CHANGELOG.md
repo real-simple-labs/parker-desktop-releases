@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.16 - 2026-10-08
+
+- Small fixes and improvements.
+
 ## 1.0.15 - 2026-10-08
 
 - A brain made before Parker's skills offers to set them up, so your AI agent can use them
