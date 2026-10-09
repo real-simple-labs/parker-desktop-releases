@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.15 - 2026-10-08
+
+- A brain made before Parker's skills offers to set them up, so your AI agent can use them
+
 ## 1.0.14 - 2026-10-07
 
 - A brand that was deleted or is no longer shared with you stops syncing, and its files stay on your computer
