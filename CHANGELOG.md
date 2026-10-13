@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.20 - 2026-10-13
+
+- The account menu has Desktop App Settings and Parker Account Settings, for your profile, team and billing
+
 ## 1.0.19 - 2026-10-12
 
 - The search window also finds a brain's recent changes, its files, and the words inside them
