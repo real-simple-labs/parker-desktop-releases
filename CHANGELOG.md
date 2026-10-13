@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 1.0.21 - 2026-10-13
+
+- Files and folders with names Windows can't open are renamed, so teammates on Windows keep getting updates
+- Lock files from open Word, Excel and PowerPoint documents stay on your computer instead of syncing to your team
+- Files start syncing as soon as the tools Parker asks for are installed, without restarting Parker (Windows)
+
 ## 1.0.20 - 2026-10-13
 
 - The account menu has Desktop App Settings and Parker Account Settings, for your profile, team and billing
