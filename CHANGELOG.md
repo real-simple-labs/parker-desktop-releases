@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.22 - 2026-10-14
+
+- An update downloaded before you shut down installs the next time you start Parker (Windows)
+
 ## 1.0.21 - 2026-10-13
 
 - Files and folders with names Windows can't open are renamed, so teammates on Windows keep getting updates
