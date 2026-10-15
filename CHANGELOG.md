@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.26 - 2026-10-15
+
+- Small fixes and improvements.
+
 ## 1.0.24 - 2026-10-15
 
 - The + for a new tab opens a search, so you can pick the page to open right away
