@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.31 - 2026-10-19
+
+- See a brand's brain as a map: each doc a star, grouped by area, and play back how it grew over the year
+
 ## 1.0.30 - 2026-10-17
 
 - Small fixes and improvements.
