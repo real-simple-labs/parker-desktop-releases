@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.35 - 2026-10-22
+
+- Small fixes and improvements.
+
 ## 1.0.34 - 2026-10-22
 
 - A brain that stopped syncing with an error sends the changes saved in the meantime
