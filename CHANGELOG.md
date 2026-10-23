@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.38 - 2026-10-23
+
+- Claude and Codex know which folders only some people can see, and keep their content in those folders
+
 ## 1.0.37 - 2026-10-22
 
 - Small fixes and improvements.
