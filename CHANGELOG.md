@@ -2,6 +2,11 @@
 
 What changed in each version, newest first.
 
+## 1.0.39 - 2026-10-26
+
+- Make a folder private as you add it from your computer, so only you see its files
+- Make a new folder private as you create it, so only you see what you put in it
+
 ## 1.0.38 - 2026-10-23
 
 - Claude and Codex know which folders only some people can see, and keep their content in those folders
