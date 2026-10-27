@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.40 - 2026-10-27
+
+- Small fixes and improvements.
+
 ## 1.0.39 - 2026-10-26
 
 - Make a folder private as you add it from your computer, so only you see its files
