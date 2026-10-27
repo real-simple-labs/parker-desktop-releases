@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.42 - 2026-10-27
+
+- Small fixes and improvements.
+
 ## 1.0.41 - 2026-10-27
 
 - Drag the edges of a document to make it wider or narrower
