@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.43 - 2026-10-29
+
+- Updates install by themselves when you step away, and wait while you are on a metered connection
+
 ## 1.0.42 - 2026-10-27
 
 - Small fixes and improvements.
