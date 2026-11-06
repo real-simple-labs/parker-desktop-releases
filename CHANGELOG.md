@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.48 - 2026-11-06
+
+- Choose a plan and Upgrade plan open the plans of the organization you are looking at
+
 ## 1.0.47 - 2026-11-06
 
 - Installed packages, build folders, logs and source maps stay on your computer instead of syncing
