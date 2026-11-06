@@ -2,6 +2,12 @@
 
 What changed in each version, newest first.
 
+## 1.0.47 - 2026-11-06
+
+- Installed packages, build folders, logs and source maps stay on your computer instead of syncing
+- Large brains finish their first download instead of stopping after 15 minutes
+- The file browser lists brains with up to 100,000 files and folders in full
+
 ## 1.0.45 - 2026-11-02
 
 - Small fixes and improvements.
