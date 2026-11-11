@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.50 - 2026-11-11
+
+- A brain uploads again after a clash is fixed, also when a lot of work waited to go up
+
 ## 1.0.49 - 2026-11-09
 
 - A brain that was not synced for weeks catches up instead of failing to sync
