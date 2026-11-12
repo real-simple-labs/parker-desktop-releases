@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.51 - 2026-11-11
+
+- A clash fixed with Claude stays fixed when a teammate saves changes meanwhile
+
 ## 1.0.50 - 2026-11-11
 
 - A brain uploads again after a clash is fixed, also when a lot of work waited to go up
