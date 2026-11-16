@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.52 - 2026-11-13
+
+- Small fixes and improvements.
+
 ## 1.0.51 - 2026-11-11
 
 - A clash fixed with Claude stays fixed when a teammate saves changes meanwhile
