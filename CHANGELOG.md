@@ -2,6 +2,10 @@
 
 What changed in each version, newest first.
 
+## 1.0.55 - 2026-11-23
+
+- Add a brand from the brand switcher in the sidebar
+
 ## 1.0.54 - 2026-11-23
 
 - Home and the brain page say when a clash pauses syncing, and the clash dialog names the assistant behind a change
